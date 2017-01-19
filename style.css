@@ -1,8 +1,25 @@
 /* CSS file for index.html*/
-li{
-    style = font-size: 20px
+h1{
+    display:block;
+    font-size:2em;
+    font-weight: bold;
+    margin-top: auto;
 }
- div img{
-    height : 100px;
-    width:10000px;
+li{
+    font-size: 20px
+    color:blue;
+}
+a:hover{
+    color:red;
+}
+div {
+
+    padding-top: 100px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+p{
+    font-size: 10px;
+    font-family: sans-serif;
 }
